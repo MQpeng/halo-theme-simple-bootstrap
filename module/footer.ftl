@@ -2,7 +2,7 @@
 <footer class="py-4 border-top bg-white">
     <div class="container d-flex flex-md-row flex-column justify-content-between align-items-center px-lg-2">
         <div>
-            <span class="text-muted"><@global.footer/></span>
+            <#--  <span class="text-muted"><@global.footer/></span>  -->
             <#--  <span class="text-muted font-weight-bold"> Thanks for <a href="https://halo.run">Halo</a></span>  -->
         </div>
         <div class="link-info mt-md-0 mt-4">
