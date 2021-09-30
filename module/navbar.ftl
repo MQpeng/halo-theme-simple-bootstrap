@@ -2,7 +2,7 @@
 <section id="navBar" class="border-bottom bg-white">
     <nav class="navbar navbar-expand-lg navbar-light container px-lg-2 py-3">
 
-        <a class="navbar-brand font-weight-bold" href="${blog_url!}">
+        <a class="navbar-brand font-weight-bold">
             <#if (options.blog_logo)?? && options.blog_logo?trim != ''>
                 <img src="${options.blog_logo!}" width="30" height="30"
                      class="d-inline-block align-top mr-2" alt="${blog_title!}">
